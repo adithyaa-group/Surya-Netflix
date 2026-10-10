@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1034" viewBox="0 0 1100 1034">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a0d18"/>
+      <stop offset="1" stop-color="#14060a"/>
+    </linearGradient>
+    <radialGradient id="rim" cx="75%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#ff3d5a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff3d5a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M90 1034 C90 780 250 700 420 672 L680 672 C850 700 1010 780 1010 1034 Z" fill="url(#body)"/>
+  <path d="M90 1034 C90 780 250 700 420 672 L680 672 C850 700 1010 780 1010 1034 Z" fill="url(#rim)"/>
+  <rect x="470" y="560" width="160" height="140" rx="50" fill="#2a0a12"/>
+  <ellipse cx="550" cy="380" rx="190" ry="235" fill="url(#body)"/>
+  <ellipse cx="550" cy="380" rx="190" ry="235" fill="url(#rim)"/>
+  <text x="550" y="440" text-anchor="middle" font-family="Impact, 'Arial Narrow', sans-serif" font-size="190" fill="#f4f1ec" fill-opacity="0.92" letter-spacing="6">SA</text>
+</svg>
